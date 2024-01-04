@@ -1,0 +1,129 @@
+# Kodi Media Center language file
+# Addon Name: Solarwinds
+# Addon id: screensaver.rsxs.solarwinds
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2022-07-28 10:14+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/screensaver-rsxs-solarwinds/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13\n"
+
+msgctxt "Addon Summary"
+msgid "A mesmerising particle effects screensaver"
+msgstr "一个迷人的粒子效果屏幕保护程序"
+
+msgctxt "Addon Description"
+msgid "This is a very mesmerizing particle effects saver. Tweak the settings a little and you'll find that you can achieve an amazing number of different animated patterns. You can also connect the particles with lines for a very different effect."
+msgstr "这是一个非常迷人的粒子效果屏幕保护程序。你会发现你能看到惊人数量的不同图案。"
+
+msgctxt "Addon Disclaimer"
+msgid "This is an implementation based on \"rss-glx\" screensaver"
+msgstr "这是一个基于“rss-glx”屏幕保护程序的实现"
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+msgctxt "#30000"
+msgid "General"
+msgstr "常规"
+
+msgctxt "#30001"
+msgid "Advanced"
+msgstr "高级"
+
+msgctxt "#30010"
+msgid "Mode"
+msgstr "模式"
+
+msgctxt "#30011"
+msgid "Automatic"
+msgstr "自动"
+
+msgctxt "#30012"
+msgid "Regular"
+msgstr "常规"
+
+msgctxt "#30013"
+msgid "Cosmic Strings"
+msgstr "宇宙弦"
+
+msgctxt "#30014"
+msgid "Cold Pricklies"
+msgstr "冷刺痛"
+
+msgctxt "#30015"
+msgid "Space Fur"
+msgstr "空间毛"
+
+msgctxt "#30016"
+msgid "Jiggly"
+msgstr "摇晃"
+
+msgctxt "#30017"
+msgid "Undertow"
+msgstr "逆流"
+
+msgctxt "#30018"
+msgid "Use advanced settings"
+msgstr "使用高级设置"
+
+msgctxt "#30020"
+msgid "Number of solar winds"
+msgstr "太阳风的数量"
+
+msgctxt "#30021"
+msgid "Particles per solar wind"
+msgstr "每太阳风粒子数"
+
+msgctxt "#30022"
+msgid "Emitters per solar wind"
+msgstr "每个太阳风的发射源"
+
+msgctxt "#30023"
+msgid "Solar wind speed"
+msgstr "太阳风速度"
+
+msgctxt "#30024"
+msgid "Particle size"
+msgstr "粒子大小"
+
+msgctxt "#30025"
+msgid "Particle geometry"
+msgstr "粒子几何形状"
+
+msgctxt "#30026"
+msgid "Lights"
+msgstr "光线"
+
+msgctxt "#30027"
+msgid "Points"
+msgstr "点"
+
+msgctxt "#30028"
+msgid "Lines"
+msgstr "线"
+
+msgctxt "#30029"
+msgid "Particle speed"
+msgstr "粒子速度"
+
+msgctxt "#30030"
+msgid "Emitter speed"
+msgstr "发射源速度"
+
+msgctxt "#30031"
+msgid "Motion blur"
+msgstr "运动模糊"

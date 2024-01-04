@@ -1,0 +1,129 @@
+# Kodi Media Center language file
+# Addon Name: Sun Dancer 2
+# Addon id: screensaver.rsxs.sundancer2
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2023-02-04 22:15+0000\n"
+"Last-Translator: José Antonio Alvarado <jalvarado0.eses@gmail.com>\n"
+"Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/screensaver-rsxs-sundancer2/es_es/>\n"
+"Language: es_es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+msgctxt "Addon Summary"
+msgid "Rotating stack of quads"
+msgstr "Pila giratoria de cuadrantes"
+
+msgctxt "Addon Description"
+msgid "Neat rotation effects from rotation and skewing stack of transparent squares."
+msgstr "Nítidos efectos de rotación a partir de la rotación y la inclinación de la pila de cuadrados transparentes."
+
+msgctxt "Addon Disclaimer"
+msgid "This is an implementation based on \"rss-glx\" screensaver"
+msgstr "Esta es una implementación basada en el salvapantallas \"rss-glx\""
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+msgctxt "#30000"
+msgid "Color"
+msgstr "Color"
+
+msgctxt "#30001"
+msgid "Automatic"
+msgstr "Automático"
+
+msgctxt "#30002"
+msgid "Sun"
+msgstr "Sol"
+
+msgctxt "#30003"
+msgid "Manual"
+msgstr "Manual"
+
+msgctxt "#30004"
+msgid "Foreground"
+msgstr "Primer plano"
+
+msgctxt "#30005"
+msgid "Background"
+msgstr "Segundo plano"
+
+msgctxt "#30006"
+msgid "Red"
+msgstr "Rojo"
+
+msgctxt "#30007"
+msgid "Green"
+msgstr "Verde"
+
+msgctxt "#30008"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30010"
+msgid "Reverse"
+msgstr "Invertir"
+
+msgctxt "#30011"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30012"
+msgid "Off"
+msgstr "Apagado"
+
+msgctxt "#30013"
+msgid "On"
+msgstr "Encendido"
+
+msgctxt "#30020"
+msgid "Automatic transparency"
+msgstr "Transparencia automática"
+
+msgctxt "#30021"
+msgid "Transparency value"
+msgstr "Valor de transparencia"
+
+msgctxt "#30022"
+msgid "Number of squares"
+msgstr "Número de cuadrados"
+
+msgctxt "#30023"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30024"
+msgid "Speed"
+msgstr "Velocidad"
+
+msgctxt "#30025"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30030"
+msgid "Points"
+msgstr "Puntos"
+
+msgctxt "#30031"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30040"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30041"
+msgid "Colors"
+msgstr "Colores"
